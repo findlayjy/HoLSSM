@@ -18,7 +18,6 @@ If you wish to use the data, please cite the paper as below.
 	Number = {1},
         Pages = {30--60},
 }
-
 ```
 
 This data is licensed under a
